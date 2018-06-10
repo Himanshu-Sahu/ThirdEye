@@ -1,0 +1,83 @@
+Name                                                              
+Python 3.5.3 Standard Library (32-bit)                            
+Python 3.5.3 Test Suite (32-bit)                                  
+Python 3.5.3 Executables (32-bit)                                 
+Python 3.5.3 Tcl/Tk Support (32-bit)                              
+amulesw                                                           
+Python 3.5.3 Documentation (32-bit)                               
+AlphaGo                                                           
+Python 3.5.3 pip Bootstrap (32-bit)                               
+Python 3.5.3 Utility Scripts (32-bit)                             
+Update_msi                                                        
+Python 3.5.3 Add to Path (32-bit)                                 
+Python 3.5.3 Core Interpreter (32-bit)                            
+Python 3.5.3 Development Libraries (32-bit)                       
+Microsoft Office Enterprise 2007                                  
+Microsoft Office OneNote MUI (English) 2007                       
+Microsoft Office Groove Setup Metadata MUI (English) 2007         Microsoft Office InfoPath MUI (English) 2007                      
+Microsoft Office Access MUI (English) 2007                        
+Microsoft Office Shared Setup Metadata MUI (English) 2007         
+Microsoft Office Excel MUI (English) 2007                         
+Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007  
+Microsoft Office Access Setup Metadata MUI (English) 2007         
+Microsoft Office PowerPoint MUI (English) 2007                    
+Microsoft Office Publisher MUI (English) 2007                     
+Microsoft Office Outlook MUI (English) 2007                       
+Microsoft Office Office 64-bit Components 2007                    
+Microsoft Office Shared 64-bit MUI (English) 2007                 
+Microsoft Office Groove MUI (English) 2007                        
+Microsoft Office Word MUI (English) 2007                          
+Microsoft Office Proofing (English) 2007                          
+Microsoft Office Shared MUI (English) 2007                        
+Microsoft Office Proof (English) 2007                             
+Microsoft Office Proof (Spanish) 2007                             
+Microsoft Office Proof (French) 2007                              
+Microsoft Office File Validation Add-In                           
+Validity WBF DDK                                                  
+MySQL Examples and Samples 5.7                                    
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219       
+Microsoft Visual C++ 2005 Redistributable (x64)                   
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219       
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005        
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005     
+MySQL Installer - Community                                       
+Oracle Database 11g Express Edition                               
+Evernote v. 6.5.4                                                 
+MySQL Connector/C 6.1                                             
+MySQL Notifier 1.1.7                                              
+Turbo C++ 3.2                                                     
+Node.js                                                           
+HP Support Assistant                                              
+MySQL Connector J                                                 
+Java 8 Update 131                                                 
+Java 8 Update 131 (64-bit)                                        
+Java(TM) SE Development Kit 6                                     
+Java SE Development Kit 8 Update 121 (64-bit)                     
+Python Launcher                                                   
+MySQL Documents 5.7                                               
+Terela                                                            
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026        
+Microsoft Web Platform Installer 5.0                              
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005     
+Adobe Refresh Manager                                             
+Extended Asian Language font pack for Adobe Acrobat Reader DC     
+Adobe Acrobat Reader DC                                           
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005        
+AlphaGo                                                           
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030     
+Windows 10 Update and Privacy Settings                            
+Microsoft Visual C++ 2005 Redistributable (x64)                   
+HP Support Solutions Framework                                    
+Google Update Helper                                              
+BikaQ Rss                                                         
+MySQL Connector Net 6.9.9                                         
+Google Update Helper                                              
+HP Customer Experience Enhancements                               
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030     
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026     
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030        
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030        
+WinSnare                                                          
+MySQL Connector C++ 1.1.8                                         
+Java Auto Updater                                                 
+MySQL Server 5.7                                                  

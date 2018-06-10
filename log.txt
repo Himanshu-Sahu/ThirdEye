@@ -1,0 +1,53 @@
+Device											  Status		     Time	Date
+"Lenovo A7000-a"                                  "Connected"        5-8-17 17h:03m 
+"USB Composite Device"                            "Disonnected"      5-8-17 17h:03m 
+"USB Composite Device"                            "Disonnected"      5-8-17 17h:04m 
+"USB Mass Storage Device"                         "Connected"        5-8-17 17h:05m 
+"USB Composite Device"                            "Disonnected"      5-8-17 17h:05m 
+"USB Mass Storage Device"                         "Connected"        6-8-17  0h:04m 
+"ADB Device"                                      "Connected"        6-8-17  0h:07m 
+"ADB Device"                                      "Connected"        6-8-17  0h:08m 
+"ADB Device"                                      "Connected"        6-8-17  0h:09m 
+"ADB Device"                                      "Connected"        6-8-17  0h:13m 
+"USB Mass Storage Device"                         "Connected"        6-8-17  0h:14m 
+"USB Mass Storage Device"                         "Connected"        6-8-17  0h:15m 
+"Lenovo A7000-a"                                  "Disonnected"      6-8-17  0h:26m 
+"USB Mass Storage Device"                         "Connected"        6-8-17  0h:27m 
+"Lenovo A7000-a"                                  "Disonnected"      6-8-17  0h:27m 
+"ADB Device"                                      "Connected"        6-8-17  0h:27m 
+"USB Composite Device"                            "Disonnected"      6-8-17  0h:34m 
+"USB Composite Device"                            "Disonnected"      6-8-17  0h:41m 
+"USB Composite Device"                            "Disonnected"      6-8-17  0h:41m 
+"USB Composite Device"                            "Disonnected"      6-8-17  0h:41m 
+"USB Composite Device"                            "Disonnected"      6-8-17  0h:41m 
+"USB Composite Device"                            "Disonnected"      6-8-17  0h:41m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:07m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:08m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:08m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:10m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Connected"        17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      17-8-17 17h:24m 
+"ADB Device"                                      "Connected"        19-8-17 22h:47m 
+"USB Mass Storage Device"                         "Disonnected"      19-8-17 22h:48m 
+"USB Mass Storage Device"                         "Disonnected"      19-8-17 22h:48m 
+"USB Mass Storage Device"                         "Disonnected"      19-8-17 22h:48m 
+"USB Mass Storage Device"                         "Disonnected"      19-8-17 22h:48m 
+"USB Mass Storage Device"                         "Connected"        19-8-17 22h:50m 
+"USB Mass Storage Device"                         "Connected"        19-8-17 22h:50m 
+"USB Mass Storage Device"                         "Connected"        19-8-17 22h:50m 
+"USB Mass Storage Device"                         "Connected"        19-8-17 23h:00m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      22-8-17 14h:52m 
+"SanDisk Cruzer Blade USB Device"                 "Connected"        22-8-17 14h:52m 
+"SanDisk Cruzer Blade USB Device"                 "Connected"        22-8-17 22h:19m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      22-8-17 22h:19m 
+"SanDisk Cruzer Blade USB Device"                 "Connected"        22-8-17 22h:19m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      22-8-17 22h:20m 
+"SanDisk Cruzer Blade USB Device"                 "Connected"        22-8-17 22h:21m 
+"SanDisk Cruzer Blade USB Device"                 "Disonnected"      22-8-17 22h:21m 
